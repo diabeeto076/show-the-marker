@@ -1,0 +1,10 @@
+package-as: ShowTheMarker
+
+ignore:
+  - CallbackHandler-1.0
+  - LibStub
+  - HereBeDragons-2.0.lua
+  - HereBeDragons-Migrate.lua
+  - HereBeDragons-Pins-2.0.lua
+  - HereBeDragons.toc
+  - .idea
