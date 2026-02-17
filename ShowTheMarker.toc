@@ -5,8 +5,8 @@
 ## Version: 1.0.0
 ## SavedVariables: ShowTheMarkerDB
 
-LibStub\LibStub.lua
-CallbackHandler-1.0\CallbackHandler-1.0.lua
+LibStub.lua
+CallbackHandler-1.0.lua
 HereBeDragons-2.0.lua
 HereBeDragons-Pins-2.0.lua
 ShowTheMarker.lua
